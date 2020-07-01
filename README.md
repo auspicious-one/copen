@@ -1,4 +1,4 @@
-# ws
+# copen
 一个快捷命令，帮助你快速使用 WebStorm 或者 VsCode 打开你的项目或文件
 
 !!! 目前仅限 Mac （等我搬完砖去研究 Windows）
